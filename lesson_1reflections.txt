@@ -1,0 +1,38 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+Seeing only the difference hel you concentrate only to thos segmant of the file that have changed.
+We did't scroll 1000 line, we know the mistake was in those few command, so we could read with more attention.
+Finding difference betweend a few group of ten word is easyer than between two long pice of code.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+Having access to entire history allow programmer to check the progress of the project, they can easily understand how the program evolved. 
+Furthemore if the new version of the program presents some bug the can restore the old one and, looking on the difference, find what's gone wrong.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+Manually choosing when to commit has certently some pros, you commint at the end of something, your committed version will have some meaning, it will note be committed in the middle of a writing (like it would be if commit was timed), also if you can choose when to commit you can make some big changes for the program, but change only a few line, and maybe you want to divide those change in different commit, this wont be possible with auto-commit. Manually commit has also some problem, it involves people, you have to decide when to commit, and you have to remember to commit, it relys on you.
+
+
+
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+I think the different choice depends by the pourpouse of the program, google doc it thought to save documents, and it's unlikly thet users will need multiple save, they just want to save their single file, Git otherwise is thought for programmers, and a lot of program is divided in multiple file, so it's rly important to allow user to have multiple saveing
+
+
+How can you use the commands git log and git diff to view the history of files?
+
+the two command can be rly useful in different ways, git log allow users to easily find the version where they made a specific change, and also allow them to see what changes hase been made during time, while git diff is more accurate, allow user to focus on a specific commit, and so find what line of code as been change to make this particolar version of the program
+
+
+How might using version control make you more confident to make changes that could break something?
+
+Using version control user can restore code to a previous condition, so if he introduces some bug can still come back easily, this make programmer rly confident, becouse he will experiment new thing knowing that, if he will make some mistake, he will need just a few second to revert all changes, and not long time of code rewriting
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+good question, i don't rly know, i'd prefer something not to difficoult becouse i don't know what i'm rly capable of, so let's try some basics and go on with some intersting stuff with time, just not to be killed instantly
+
+
+

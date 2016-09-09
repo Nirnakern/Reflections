@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+what happens, it's probably pretty complicated, but from what we have seen we know it's created an hidden folder called .git where file to track changes are saved.
+the reason to do it it's simple, to track history of changes to file via git, and to make that we first have to tell git the folder where we will save file
