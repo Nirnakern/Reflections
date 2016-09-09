@@ -2,3 +2,8 @@ What happens when you initialize a repository? Why do you need to do it?
 
 what happens, it's probably pretty complicated, but from what we have seen we know it's created an hidden folder called .git where file to track changes are saved.
 the reason to do it it's simple, to track history of changes to file via git, and to make that we first have to tell git the folder where we will save file
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+staging area it's not a real directory, it's just a temporary place where file are stored waiting to be committed, it offer user possibility to choose what file to commit, this is it value, doesen't force porgrammers to commit all, or to commit file by file
+
