@@ -7,3 +7,13 @@ How is the staging area different from the working directory and the repository?
 
 staging area it's not a real directory, it's just a temporary place where file are stored waiting to be committed, it offer user possibility to choose what file to commit, this is it value, doesen't force porgrammers to commit all, or to commit file by file
 
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+to have one commit per logical change i'll need to call git status before calling git add, so if there is already something in staging area i'll first commit. onother way is simply call cammit after putting files in staging area, so i'll be shurenex time i'll put something in staging area it'll be empty
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+branches would be really healpful when different people are worcking on the same project, and one want to try something new, but is not so shure it'll be a good idea, so instead of working on the main project, where all of his/her collegues will be working, he create a new branch to work on,
+
+
