@@ -1,3 +1,8 @@
 When would you want to use a remote repository rather than keeping all your work local?
 
 always? it's better to have thing online, so if your pc explode you still have all the file, even if they are usless, maybe one day i'll need them
+
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+as we previously sed it's better to upload all the big changes, like adding features, but by doing so i'll probably make lots of local commit, and some will be aborted becouse i'll made some error, so it's usless to upload all, but it's better to upload only when i make some significant change
