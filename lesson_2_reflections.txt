@@ -21,4 +21,8 @@ How do the diagrams help you visualize the branch structure?
 
 Branch can become really complicate if you are adding different features, or different people are working on the same project, diagrams show easily how different feature are nested on the main branch, and where user is actually working on the project, which branch, with what features
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+it's a big mess, i think it's worthiny but hey, what the hell happened, i hope i'll not have to remake tons of thing....
+
 
