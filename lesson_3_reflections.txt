@@ -6,3 +6,8 @@ always? it's better to have thing online, so if your pc explode you still have a
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 as we previously sed it's better to upload all the big changes, like adding features, but by doing so i'll probably make lots of local commit, and some will be aborted becouse i'll made some error, so it's usless to upload all, but it's better to upload only when i make some significant change
+
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Those different operation have lots in common, they all kinda create a copy of a repository, but in diffrent ways, when you fork the copy is only on github, you copy someone esle work in your "workspace" so you can change it without makeing any damage. Clone it's a copy from github to your local pc, you take what you have saved on the server and download to your pc to be better editable, branches it's local, you create a new version of your local file so you can edit them still beeing able to restore older version if you mess up
