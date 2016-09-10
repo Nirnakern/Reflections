@@ -1,0 +1,3 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+always? it's better to have thing online, so if your pc explode you still have all the file, even if they are usless, maybe one day i'll need them
